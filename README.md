@@ -1,7 +1,9 @@
 #Telecom# MTN Customer Churn Analysis
 ## Project Overview
 This project analyzes customer churn data for MTN to understand why customers leave and identify key churn drivers.
- ![App Screenshot](images/screenshot.png)
+kodondo Maryam_MTN_[Deliverable]_xxx_zip
+ *![MTN Insight]( MTN_insight_center.png)*
+ 
  
 ## Tools Used
 - Microsoft Excel
